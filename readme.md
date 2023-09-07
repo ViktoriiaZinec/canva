@@ -1,4 +1,4 @@
-<h1 align="center">First canva project</h1>
+<h1 align="center">Simple graphic editor</h1>
 <img src="./readme_assets/robot.png" width="100%">
 
 ## Description
