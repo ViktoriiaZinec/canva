@@ -12,4 +12,4 @@ This is a simple graphic editor for drawing. It allows you to draw circles and s
 
 - HTML5,
 - CSS3,
-- TypeScript
+- JS
